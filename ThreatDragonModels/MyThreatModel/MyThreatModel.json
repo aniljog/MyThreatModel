@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "MyThreatModel",
+    "owner": "Anil Kumar",
+    "description": "Testing Threat Model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Soni"
+  }
+}
